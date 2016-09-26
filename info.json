@@ -5,7 +5,7 @@
   "author": "DaCyclops",
   "homepage": "",
   "contact": "dacyclops@dacyclops.com",
-  "description": "Hotkey for turning off your Night Vision",
+  "description": "Hotkey for turning off your Nightvision",
   "factorio_version":"0.14",
   "dependencies": ["base >= 0.14.0"]
 }

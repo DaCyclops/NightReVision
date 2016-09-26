@@ -1,3 +1,3 @@
 # Factorio Mod
 # Night ReVision
-Hotkey for turning off your Night Vision. Defaults to F2.
+Hotkey for turning off your Nighvision. Defaults to F2.
